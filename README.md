@@ -1,7 +1,3 @@
-Below is a professional and concise README documentation for your TMP102 Temperature Sensor Driver project. It’s tailored for a GitHub repository or similar context, assuming this is a standalone C++ project. The README covers the purpose, features, setup instructions, usage, and future improvements—perfect for someone discovering your work (or for you to reference later!).
-
----
-
 # TMP102 Temperature Sensor Driver
 
 ## Overview
